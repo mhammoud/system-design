@@ -1,8 +1,6 @@
-# System Design Course
+# System Design 
 
-Hey, welcome to the course. I hope this course provides a great learning experience.
-
-_This course is also available on my [website](https://karanpratapsingh.com/courses/system-design). Please leave a ⭐ as motivation if this was helpful!_
+<div style="page-break-after: always;"></div>
 
 # Table of contents
 
@@ -85,6 +83,9 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Next Steps](#next-steps)
   - [References](#references)
 
+<div style="page-break-after: always;"></div>
+
+
 # What is system design?
 
 Before we start this course, let's talk about what even is system design.
@@ -154,6 +155,8 @@ A dynamic IP address changes from time to time and is not always the same. It ha
 
 _Example: They are more commonly used for consumer equipment and personal use._
 
+<div style="page-break-after: always;"></div>
+
 # OSI Model
 
 The OSI Model is a logical and conceptual model that defines network communication used by systems open to interconnection and communication with other systems. The Open System Interconnection (OSI Model) also defines a logical network and effectively describes computer packet transfer by using various layers of protocols.
@@ -204,6 +207,8 @@ The data link layer is very similar to the network layer, except the data link l
 ### Physical
 
 This layer includes the physical equipment involved in the data transfer, such as the cables and switches. This is also the layer where the data gets converted into a bit stream, which is a string of 1s and 0s. The physical layer of both devices must also agree on a signal convention so that the 1s can be distinguished from the 0s on both devices.
+
+<div style="page-break-after: always;"></div>
 
 # TCP and UDP
 
